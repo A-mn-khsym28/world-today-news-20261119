@@ -1,4 +1,4 @@
-"""Write the original morning world-news illustration without network access."""
+"""Write the original November 19 world-news newspaper without network access."""
 from pathlib import Path
 import os
 
